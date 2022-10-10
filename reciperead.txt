@@ -1,0 +1,42 @@
+Rarefied Cedar Longbow:Cedar Branch:2:Cedar Lumber:1:Mythrite Nugget:1:Rainbow Thread:1
+Rarefied Cedar Fishing Rod:Cedar Lumber:2:Mythrite Nugget:2
+Rarefied Holy Cedar Spinning Wheel:Holy Cedar Lumber:3:Mythrite Rivets:1
+Rarefied Dark Chestnut Rod:Dark Chestnut Lumber:1:Growth Formula Epsilon:3
+Rarefied Hallowed Chestnut Ring:Hallowed Chestnut Lumber:3:Varnish:1
+Rarefied Birch Signum:Birch Lumber:1:Birch Branch:2:Chimerical Felt:1:Growth Formula Zeta:1
+Rarefied Mythrite Katzbalger:Archaeornis Leather:1:Cedar Lumber:1:Mythrite Nugget:2
+Rarefied Mythrite Pugiones:Archaeornis Leather:1:Mythrite Nugget:2:Void Glue:1
+Rarefied Mythrite Halfheart Saw:Archaeornis Leather:1:Mythrite Nugget:2:Mythrite Rivets:1
+Rarefied Titanium Creasing Knife:Dark Chestnut Lumber:1:Titanium Nugget:2:Wing Glue:1
+Rarefied Titanium Mortar:Dark Chestnut Lumber:1:Titanium Nugget:3
+Rarefied Adamantite Bill:Adamantite Nugget:2:Amphiptere Leather:1:Birch Lumber:1
+Rarefied Mythrite Sallet:Archaeornis Leather:1:Electrum Ingot:1:Mythrite Nugget:2
+Rarefied Mythrite Hauberk:Archaeornis Leather:1:Mythrite Nugget:3
+Rarefied Mythrite Bladed Lantern Shield:Mythrite Ingot:3:Mythrite Rivets:1
+Rarefied Titanium Frypan:Titanium Nugget:2:Dark Chestnut Lumber:1:Titanium Rivets:1
+Rarefied Titanium Vambraces:Dragon Leather:1:Dhalmel Leather:1:Hardsilver Ingot:1:Titanium Ingot:1
+Rarefied Adamantite Scutum:Adamantite Nugget:2:Amphiptere Leather:1:Titanium Ingot:1
+Rarefied Mythrite Goggles:Archaeornis Leather:1:Crystal Glass:1:Mythrite Nugget:2
+Rarefied Mythrite Bangle:Jadeite:1:Mythrite Nugget:1:Tiger 's Eye:2
+Rarefied Mythrite Needle:Basilisk Whetstone:1:Cedar Lumber:1:Mythrite Nugget:2
+Rarefied Hardsilver Monocle:Crystal Glass:1:Hardsilver Nugget:2:Larimar:1
+Rarefied Hardsilver Pole:Dragon Leather:1:Hardsilver Ingot:2:Tiger 's Eye:1
+Rarefied Aurum Regis Earrings:Aurum Regis Nugget:2:Gloaming Coral:2:Hardsilver Ingot:1
+Rarefied Archaeoskin Belt:Archaeornis Leather:3:Rainbow Thread:1:
+Rarefied Archaeoskin Cloche:Archaeornis Leather:2:Chocobo Feather:1:Rainbow Thread:1:Wildfowl Feather:1
+Rarefied Wyvernskin Mask:Mythrite Ingot:1:Wyvern Leather:2:Yeti Fang:2
+Rarefied Dhalmelskin Coat:Dhalmel Leather:2:Ramie Cloth:1:Ramie Thread:1
+Rarefied Dragonskin Ring:Dragon Leather:2:Hardsilver Ingot:2
+Rarefied Serpentskin Hat:Amphiptere Leather:2:Hallowed Ramie Cloth:1:Rose Gold Nugget:1
+Rarefied Rainbow Bolero:Archaeornis Leather:1:Electrum Ingot:1:Rainbow Cloth:2
+Rarefied Rainbow Ribbon:Agate:1:Rainbow Cloth:2:Rainbow Thread:1
+Rarefied Holy Rainbow Hat:Holy Rainbow Cloth:1:Rainbow Thread:1:Straw:2:Wyvern Leather:1
+Rarefied Ramie Turban:	Ramie Cloth:2:Rose Gold Nugget:1:Star Sapphire:1
+Rarefied Hallowed Ramie Doublet:Dhalmel Leather:1:Hallowed Ramie Cloth:2:Opal:1
+Rarefied Chimerical Felt Cyclas:Chimerical Felt:2:Rose Gold Nugget:1:Titanium Ingot:1
+Rarefied Archaeoskin Grimoire:Archaeornis Leather:2:Electrum Ingot:1:Enchanted Mythrite Ink:1
+Rarefied Archaeoskin Codex:Archaeornis Leather:2:Enchanted Mythrite Ink:1:Hippogryph Leather:1
+Rarefied Dissolvent:Deepeye Tears:4:Mist Dill:3:Volcanic Rock Salt:1
+Rarefied Dhalmelskin Codex:Dhalmel Leather:2:Enchanted Mythrite Ink:1:Hardsilver Nugget:1
+Rarefied Max-Potion:Abalathian Spring Water:2:Coneflower:2:Cow Bitter:2:Highland Oregano:2
+Rarefied Book of Aurum Regis:Aurum Regis Nugget:2:Enchanted Aurum Regis Ink:1:Hardsilver Ingot:1

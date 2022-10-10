@@ -1,0 +1,60 @@
+Abalathian Spring Water:3
+Adamantite Nugget:2
+Agate:0
+Amphiptere Leather:2
+Archaeornis Leather:0
+Aurum Regis Nugget:0
+Basilisk Whetstone:0
+Birch Branch:18
+Birch Lumber:14
+Cedar Branch:0
+Cedar Lumber:0
+Chimerical Felt:0
+Chocobo Feather:0
+Coneflower:0
+Cow Bitter:0
+Crystal Glass:0
+Dark Chestnut:0
+Dark Chestnut Lumber:0
+Deepeye Tears:4
+Dhalmel Leather:0
+Dragon Leather:3
+Electrum Ingot:0
+Enchanted Aurum Regis Ink:3
+Enchanted Hardsilver Ink:0
+Enchanted Mythrite Ink:0
+Gloaming Coral:0
+Growth Formula Epsilon:0
+Growth Formula Zeta:11
+Hallowed Chestnut Lumber:1
+Hallowed Ramie Cloth:12
+Hardsilver Ingot:3
+Hardsilver Nugget:0
+Highland Oregano:0
+Hippogryph Leather:0
+Holy Cedar Lumber:0
+Holy Rainbow Cloth:0
+Jadeite:0
+Larimar:0
+Mist Dill:0
+Mythrite Ingot:0
+Mythrite Nugget:0
+Mythrite Rivets:0
+Opal:0
+Rainbow Cloth:0
+Rainbow Thread:0
+Ramie Cloth:0
+Ramie Thread:0
+Rose Gold Nugget:0
+Star Sapphire:0
+Straw:0
+Tiger's Eye:0
+Titanium Ingot:11
+Titanium Nugget:0
+Titanium Rivets:0
+Varnish:0
+Void Glue:0
+Volcanic Rock Salt:6
+Wildfowl Feather:0
+Wing Glue:0
+Wyvern Leather:0
